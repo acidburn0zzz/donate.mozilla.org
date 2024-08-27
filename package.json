@@ -100,7 +100,7 @@
     "stripe": "5.1.1",
     "style-loader": "0.18.2",
     "throng": "4.0.0",
-    "webpack": "3.2.0",
+    "webpack": "5.94.0",
     "whatwg-fetch": "0.10.1"
   },
   "devDependencies": {
